@@ -117,7 +117,9 @@ public class MiPrimerVideoJuego {
         // Calcula el tiempo final
         double tiempoFinal = tiempo + nFallos * 5;
         System.out.println("Tu tiempo final es de " + tiempoFinal + " segundos");
-             
+        // Actividad 3.
+        System.out.println("¡Vuelve a jugar con Nosotros!");
+        System.out.println("¡Es muy divertido!");     
     }
 
     // Métodos para mostrar arte ASCII correspondiente a cada movimiento.
